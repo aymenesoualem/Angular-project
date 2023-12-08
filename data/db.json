@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDMzMywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4ODg4L2F1dGgiLCJuYmYiOjE1MTYyMzkwMjIsImZpcnN0TmFtZSI6IkF5bWVuZSIsImxhc3ROYW1lIjoiU291YWxlbSIsImVtYWlsIjoiQXltZW5lQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0.cPpl77Z62LQe92IFSy4bfUJ8VMZz_-LMjiZZraj0Q1A"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDMzMywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4ODg4L2F1dGgiLCJuYmYiOjE1MTYyMzkwMjIsImZpcnN0TmFtZSI6IkF5bWVuZSIsImxhc3ROYW1lIjoiU291YWxlbSIsImVtYWlsIjoiQXltZW5lQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0.N3bus92Gx_Cpe9JkD2aXmI5vRiyZ6Ikzyj2zKKVoVZ0"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDMzMywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4ODg4L2F1dGgiLCJuYmYiOjE1MTYyMzkwMjIsImZpcnN0TmFtZSI6IkF5bWVuZSIsImxhc3ROYW1lIjoiU291YWxlbSIsImVtYWlsIjoiQXltZW5lQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiLCJBRE1JTiJdfQ.VqA2FnkZ_Oaea8ZpeALz15Cc2Q_dsvH_qJO11C02kHA"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Pc",
+      "price": 6798787,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "Jackson",
+      "price": "15000",
+      "checked": false
+    },
+    {
+      "name": "MSI KATANA",
+      "price": "56666666",
+      "checked": true,
+      "id": 3
+    },
+    {
+      "name": "MacBook AIR",
+      "price": "2000",
+      "checked": false,
+      "id": 4
+    },
+    {
+      "name": "Macbook Pro",
+      "price": "5550",
+      "checked": true,
+      "id": 7
+    },
+    {
+      "name": "LG",
+      "price": "800",
+      "checked": false,
+      "id": 8
+    },
+    {
+      "name": "behringer um2",
+      "price": "1500",
+      "checked": true,
+      "id": 9
+    },
+    {
+      "name": "FOR HONOR",
+      "price": "4000",
+      "checked": true,
+      "id": 10
+    },
+    {
+      "name": "clavier",
+      "price": "500",
+      "checked": false,
+      "id": 11
+    },
+    {
+      "name": "souris",
+      "price": "300",
+      "checked": false,
+      "id": 12
+    },
+    {
+      "name": "Headphones",
+      "price": "6",
+      "checked": false,
+      "id": 13
+    },
+    {
+      "name": "Tissot prx 150mm",
+      "price": "4000",
+      "checked": true,
+      "id": 14
+    }
+  ]
+}
